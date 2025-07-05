@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.31)
 project(Day2)
 set(CMAKE_CXX_STANDARD 11)
 
-# éå†æ‰€æœ‰.cppæ–‡ä»¶
+# ±éÀúËùÓĞ.cppÎÄ¼ş
 add_executable(enum Day2/enum.cpp)
 add_executable(pi Day2/pi.cpp)
 add_executable(haooi Day2/haooi.cpp)
