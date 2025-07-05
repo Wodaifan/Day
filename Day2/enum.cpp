@@ -7,7 +7,7 @@ int main(int argc, char const * argv[]){
     enum weekday wek = s;
     for (int i = wek; i != f; ++i) {
         cout << i << endl;
-        cout << wek + s << endl;
+        cout << wek + i << endl;
         cout << "-------¹þ¹þ-------" << endl;
     }
     return 0;
